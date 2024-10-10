@@ -18,3 +18,6 @@ cxtr.style.color = "E1DED9"
 let bord = document.getElementById("bor");
 bord.style.borderBlock = "12px"
 
+
+
+
