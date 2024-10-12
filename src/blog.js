@@ -1,4 +1,6 @@
 // main-section
+
+
 let blogOne = document.getElementById("mainsec");
 
 
@@ -181,4 +183,5 @@ recented.style.marginLeft = "40px"
 let postses = document.getElementById("posts");
 postses.style.fontWeight = "bold"
 postses.style.fontSize = "20px"
+
 
